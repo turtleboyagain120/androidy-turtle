@@ -1,4 +1,7 @@
-copyright notice: Copyright (c) 2025 Noahscratch493
-### New, forked copyright noticed: (c) 2026 turtleboyagain120
+Copyright (c) 2025 Noahscratch493, 2026 turtleboyagain120
 ---
-Herbey granted, user may run, modify, copy and redistrupe the software without restriants.
+Permission is hereby granted to any person obtaining a copy 
+of this software to run, modify, copy, and redistribute 
+without restrictions.
+---
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
